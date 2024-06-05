@@ -1,0 +1,5 @@
+- **Single Responsibility Principle** **(принцип единственной ответственности)**
+- **Open**/**Closed** **Principle** **(принцип открытости/закрытости)**
+- **Liskov** **Substitution** **Principle** **(принцип подстановки Лисков)**
+- **Interface** **Segregation** **Principle** **(принцип разделения интерфейса)**
+- **Dependency** **Inversion** **Principle** **(Принцип инверсии зависимости)**
